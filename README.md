@@ -10,9 +10,11 @@
 Ya saben usar git!
 
 
-## Estudiante: Nombre estudiante
+## Estudiante: Cuellar Lautaro
 
 Descripción
+
+Me gusta programar, me gusta el futbol tanto jugar como mirar. Soy de San Martin.
 
 Foto de mi persona:
 
